@@ -1,6 +1,6 @@
 # ProjetoWebStore
 
-# Rotas e estrutura dde cada uma
+# Rotas e estrutura de cada uma
 GET /seller <br>
 retorno: <br>
 { <br>
